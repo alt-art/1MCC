@@ -2,7 +2,7 @@
 
 # Example
 
-```javascript
+```js
 likes: [] // must be "no one likes this"
 likes: ["Peter"] // must be "Peter likes this"
 likes: ["Jacob", "Alex"] // must be "Jacob and Alex like this"

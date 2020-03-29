@@ -18,4 +18,4 @@ function like() {
   }
 }
 
-console.log(like())
+console.log(like());
