@@ -14,4 +14,4 @@ rl.question("Type exes and ohs: ", (res) => {
 rl.on("close",() => {
   console.log(`Exes == Ohs return: ${exes === ohs}`);
   process.exit(0);
-})
+});
