@@ -1,0 +1,12 @@
+{
+  "name": "ascii",
+  "version": "0.1.0",
+  "description": "ascii api for programers",
+  "main": "main.js",
+  "repository": "https://github.com/alt-art/1MCC/tree/master/ascii",
+  "author": "altart",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
