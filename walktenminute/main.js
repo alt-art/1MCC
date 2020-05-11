@@ -1,4 +1,4 @@
-let input = ['n','w','s','e','n','w','s','e','n','s']
+let input = ['n','w','s','e','n','w','s','e','n','s'];
 
 let y = 0, x = 0;
 
@@ -18,4 +18,5 @@ input.forEach(point=>{
       break;
   }
 })
-console.log(y === 0 && x === 0 && input.length === 10)
+console.log(y === 0 && x === 0 && input.length === 10);
+
